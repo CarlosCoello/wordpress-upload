@@ -1,0 +1,11 @@
+{
+    "name": "carloscoello/wordpress-4.8",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Coello",
+            "email": "carlos.coello05@outlook.com"
+        }
+    ],
+    "require": {}
+}
